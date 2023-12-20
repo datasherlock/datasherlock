@@ -1,3 +1,5 @@
+![Datasherlock](https://github.com/datasherlock/datasherlock/assets/11506905/c0a6acfa-93ba-42a8-961f-b8d7f9baae88)
+
 - 👋 Hi, I’m a Cloud Consultant at Google specialising in Data & Analytics
 - 👀 I’m interested in solving customer problems. 
 - 💾 I'm technology agnostic. Tools & technologies are just means to an end.
